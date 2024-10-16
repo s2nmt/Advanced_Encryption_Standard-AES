@@ -7,6 +7,7 @@ This library allows you to encrypt data using the AES encrytion standard. It pro
 
 ## Testing
 To test the encryption functionality, run the 'test.c" file. This will help you verify that the encryption process works correctly with sample data.
-This source was collected by me. I don't have an author for this source.
+
 **Author:** Minh Tuan
 **Date** October 12, 2024.
+This source was collected by me. I don't have an author for this source.
